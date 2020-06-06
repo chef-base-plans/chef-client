@@ -1,6 +1,6 @@
 pkg_name=chef
 pkg_origin=chef
-pkg_version=16.2.15
+pkg_version=16.2.19
 pkg_maintainer="The Chef Maintainers <humans@chef.io>"
 pkg_description="The Chef Infra Client"
 pkg_license=('Apache-2.0')
