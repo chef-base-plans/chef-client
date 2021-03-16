@@ -1,11 +1,11 @@
 pkg_name=chef
 pkg_origin=chef
-pkg_version=16.2.32
+pkg_version=16.11.2
 pkg_maintainer="The Chef Maintainers <humans@chef.io>"
 pkg_description="The Chef Infra Client"
 pkg_license=('Apache-2.0')
 pkg_source="https://github.com/chef/chef/archive/v${pkg_version}.tar.gz"
-pkg_shasum=378fbceaa89ecf57d79119090fc15a9f0be211a47493658388e7b27021309446
+pkg_shasum=2bc9d801d5e8232cae846739dfa6b134551619eed3d9a65cad81652e982b86bf
 pkg_filename="${pkg_name}-${pkg_version}.tar.gz"
 pkg_bin_dirs=(bin)
 _chef_client_ruby="core/ruby27"
